@@ -1,5 +1,8 @@
 PG Finder
+
+
 Welcome to the PG Finder repository! This project aims to provide a comprehensive platform for managing PG (Paying Guest) accommodations, making it easier for students and working professionals to find and manage their living arrangements.
+
 
 Table of Contents
 Introduction
@@ -21,7 +24,7 @@ Reviews and Ratings: Users can leave reviews and ratings for PGs.
 Installation
 To run this project locally, follow these steps:
 
-Clone the repository: bash git clone 
+Clone the repository: bash git clone https://github.com/dipeshsahu988/PG-Life
 
 cd PG Finder
 
